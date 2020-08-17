@@ -1,4 +1,4 @@
-import '../styles/globals.css'
+// import '../styles/globals.css'
 // すべてのページで読み込むものはここに書く
 
 function MyApp({ Component, pageProps }) {

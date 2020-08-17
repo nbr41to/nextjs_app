@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next start",
     "build": "next build",
-    "start": "next start",
+    "start": "next dev",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
